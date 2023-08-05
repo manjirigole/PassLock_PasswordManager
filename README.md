@@ -21,6 +21,6 @@ You are welcome to contribute to make changes to Password Manager and make it ev
 5. Submit a pull request to this repository, describing your changes in detail.
 
 **License:**
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
+This project is licensed under the GNU General Public License (GPL). You can find the full text of the LICENSE [here](LICENSE).
+Feel free to use, modify, and distribute this software according to the terms of the GNU General Public License (GPL).
 Enjoy using PassLock and stay organized with your tasks and to-do lists! Happy productivity! 🚀
